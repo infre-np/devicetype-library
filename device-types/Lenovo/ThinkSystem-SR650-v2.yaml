@@ -15,10 +15,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: PSU-1
-    position: PSU-1
-  - name: PSU-2
-    position: PSU-2
   - name: OCP slot 1
     position: OCP-1
   - name: Riser 1 - PCIe slot 1
@@ -45,3 +41,10 @@ module-bays:
   - name: Riser 3 - PCIe slot 8
     position: PCIe-8
     label: 8 PCIe
+power-ports:
+  - name: PSU-1
+    type: iec-60320-c14
+    label: PSU-1
+  - name: PSU-2
+    type: iec-60320-c14
+    label: PSU-2
