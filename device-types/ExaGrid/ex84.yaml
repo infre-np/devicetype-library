@@ -2,7 +2,7 @@
 manufacturer: ExaGrid
 model: EX84
 slug: exagrid-ex84
-u_height: 2
+u_height: 4
 is_full_depth: true
 airflow: front-to-rear
 part_number: EX84-SEC
