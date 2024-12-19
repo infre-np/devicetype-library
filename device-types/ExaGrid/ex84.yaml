@@ -8,6 +8,8 @@ airflow: front-to-rear
 part_number: EX84-SEC
 front_image: true
 rear_image: true
+weight: 45
+weight_unit: kg
 comments: '[ExaGrid Technical Specifications](https://www.exagrid.com/wp-content/uploads/ExaGrid-Technical_Specifications_DS.pdf)'
 module-bays:
   - name: PSU1
