@@ -6,6 +6,8 @@ u_height: 2
 is_full_depth: true
 airflow: front-to-rear
 part_number: EX84-SEC
+front_image: true
+rear_image: true
 comments: '[ExaGrid Technical Specifications](https://www.exagrid.com/wp-content/uploads/ExaGrid-Technical_Specifications_DS.pdf)'
 module-bays:
   - name: PSU1
